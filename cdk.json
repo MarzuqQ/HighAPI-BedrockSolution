@@ -1,0 +1,12 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "notification_email": "default@example.com",
+    "average_request_duration": 5,
+    "minutes_to_process": 5,
+    "max_concurrent_executions": 30,
+    "alarm_threshold": 5,
+    "alarm_evaluation_periods": 1,
+    "dashboard_name": "bedrock-errors"
+  }
+}
